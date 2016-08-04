@@ -375,13 +375,13 @@ and 'view content as list'
 
 ## The Anatomy of a URL
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 --
 
 ## Protocol
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 _**noun:** a system of rules that explain the correct conduct and procedures to be followed in formal situations_
 
@@ -414,7 +414,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Host (or Domain)
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 *   You're probably pretty familiar with these already.
 *   These are mapped to IP Addresses, via something called DNS (Domain Name System).
@@ -423,7 +423,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Path
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 *   Represents the resource on the server you're trying to access.
 *   Folders are delimited by slashes.
@@ -432,7 +432,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Querystring
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 *   A way to pass extra information not related to the 'resource' to the server.
 *   Not all that relevant to static websites, generally.
@@ -441,7 +441,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Hash
 
-![URL parts](../img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/anatomy-url.png)
 
 *   A reference to a particular spot on the page.
 *   We'll learn how to create these spots later.
