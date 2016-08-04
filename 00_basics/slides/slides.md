@@ -351,15 +351,6 @@ Windows: Run installer(?)
 
 --
 
-Also! Did you know you can put your apps folder in your dock!?
-
-![Apps folder in dock](../img/unit_1/apps-folder-in-dock.png)
-
-Right-click and select 'display as folder',
-and 'view content as list'
-
---
-
 ## Opening Files in Your Browser
 
 **Let's create our first webpage.**
