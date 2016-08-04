@@ -254,5 +254,5 @@ image retrieved from https://pantheon.io/sites/default/files/History-of-Website-
 ## Homework
 
 * Watch [this video](https://www.youtube.com/watch?v=7_LPdttKXPc) about the Internet.
-* [HTML Cheat Sheet PDF](../pdf/html-cheat-sheet-v1.pdf)
+* [HTML Cheat Sheet PDF](http://websitesetup.org/HTML5-cheat-sheet.pdf)
 * Read about CSS Colors
