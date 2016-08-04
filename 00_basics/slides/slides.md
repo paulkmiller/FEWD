@@ -288,15 +288,15 @@ What do our computers and a web server have in common?
 
 --
 
-![A url](/img/unit_1/server-path.png)
+![A url](../img/unit_1/server-path.png)
 
 --
 
-![A finder window](/img/unit_1/file-path.png)
+![A finder window](../img/unit_1/file-path.png)
 
 --
 
-![OMG they're the same](/img/unit_1/file-path2.png)
+![OMG they're the same](../img/unit_1/file-path2.png)
 
 --
 
@@ -332,19 +332,19 @@ Go to folder (in your mac's finder)
 --
 
 Start typing and hit **tab** to autocomplete!
-![Tab completion in finder](../img/week_01/tab_completion.png)
+![Tab completion in finder](../img/unit_1/tab_completion.png)
 
 ---
 
-## Sublime Text
+## Atom
 
-![Sublime](../img/week_01/sublime.png)
+![Atom](../img/unit_1/atom.png)
 
 --
 
-Sublime is *fantastic* and has an unlimited free trial
+Atom is *fantastic* and is completely free
 
-http://www.sublimetext.com/3
+https://atom.io/
 
 Open the .dmg file and drag the icon to your applications folder.  
 Windows: Run installer(?)
@@ -353,7 +353,7 @@ Windows: Run installer(?)
 
 Also! Did you know you can put your apps folder in your dock!?
 
-![Apps folder in dock](../img/week_01/apps-folder-in-dock.png)
+![Apps folder in dock](../img/unit_1/apps-folder-in-dock.png)
 
 Right-click and select 'display as folder',
 and 'view content as list'
@@ -381,7 +381,7 @@ and 'view content as list'
 
 ## Protocol
 
-![URL parts](img/unit_1/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 _**noun:** a system of rules that explain the correct conduct and procedures to be followed in formal situations_
 
