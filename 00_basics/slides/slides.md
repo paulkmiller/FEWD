@@ -288,15 +288,15 @@ What do our computers and a web server have in common?
 
 --
 
-![A url](img/unit_1/server-path.png)
+![A url](/img/unit_1/server-path.png)
 
 --
 
-![A finder window](img/unit_1/file-path.png)
+![A finder window](/img/unit_1/file-path.png)
 
 --
 
-![OMG they're the same](img/unit_1/file-path2.png)
+![OMG they're the same](/img/unit_1/file-path2.png)
 
 --
 
