@@ -6,41 +6,29 @@
 
 ## Hi! I'm...
 
-* Joseph Abrahams
-* I'm creative technologist at [iStrategyLabs](http://istrategylabs.com).
-* You can email me anytime: [joseph@abrahams.io](mailto:joseph@abrahams.io).
-* I'm [@josephabrahams](http://twitter.com/josephabrahams) just about everywhere.
-
---
-
-## Also, meet...
-
-* Nick Grace
-* I'm front end development manager at [JBS International, Inc](http://drupal.jbsinternational.com).
-* You can email me anytime: [nickrgrace@gmail.com](mailto:nickrgrace@gmail.com).
-* I'm [@nickgrace](http://twitter.com/nickgrace) just about everywhere.
+* Paul Miller
+* I'm a Web Developer at [Greater Washington Publishing](http://gwp2.herokuapp.com/).
+* Get in touch with me at: [pmiller@gwpi.net](mailto:pmiller@gwpi.net).
+* You can view my [portfolio site](http://paul-miller.herokuapp.com/) to get a better idea of what I enjoy doing.
 
 ---
 
 ## Agenda
 
 *   <del>Icebreakers!</del>
-*   Admin Stuff
 *   Intro To Web Development
 *   Coding Environment
+*   HTML Basics
+*   CSS Basics
 *   Our First Webpage
 
 ---
 
-## Administrivia
-
---
-
 ## Course Updates
 
-*   [Schoology](http://schoology.com)
-*   You should have gotten an email with an access code
-*   We will post assignments, handouts and updates there
+*   [Moodle](http:/google.com)
+*   You should have gotten an email welcoming you to the class
+*   We will post assignments, handouts and updates there, along with this online syllabus
 *   You'll turn in your homework as zip files there
 
 --
@@ -68,6 +56,7 @@
 *   Ask us lots of questions!
 *   Ask each other lots of questions!
 *   Let's keep it light.
+*   I accept Doughnuts as tribute.
 
 ---
 
@@ -290,7 +279,7 @@ Resource: [Stack Overflow](http://stackoverflow.com)
 
 Resources:
 
-* 80s Music  
+* 90s Music  
 * Hard Drugs
 
 ---
@@ -301,15 +290,15 @@ What do our computers and a web server have in common?
 
 --
 
-![A url](../img/week_00/server-path.png)
+![A url](img/unit_1/server-path.png)
 
 --
 
-![A finder window](../img/week_00/file-path.png)
+![A finder window](img/unit_1/file-path.png)
 
 --
 
-![OMG they're the same](../img/week_00/file-path2.png)
+![OMG they're the same](img/unit_1/file-path2.png)
 
 --
 
@@ -388,13 +377,13 @@ and 'view content as list'
 
 ## The Anatomy of a URL
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 --
 
 ## Protocol
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](img/unit_1/url-anatomy.png)
 
 _**noun:** a system of rules that explain the correct conduct and procedures to be followed in formal situations_
 
@@ -427,7 +416,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Host (or Domain)
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 *   You're probably pretty familiar with these already.
 *   These are mapped to IP Addresses, via something called DNS (Domain Name System).
@@ -436,7 +425,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Path
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 *   Represents the resource on the server you're trying to access.
 *   Folders are delimited by slashes.
@@ -445,7 +434,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Querystring
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 *   A way to pass extra information not related to the 'resource' to the server.
 *   Not all that relevant to static websites, generally.
@@ -454,7 +443,7 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Hash
 
-![URL parts](../img/week_00/url-anatomy.png)
+![URL parts](../img/unit_1/url-anatomy.png)
 
 *   A reference to a particular spot on the page.
 *   We'll learn how to create these spots later.
