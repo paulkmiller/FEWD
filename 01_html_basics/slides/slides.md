@@ -1,13 +1,3 @@
-## Hi! I'm...
-
-* Paul Miller
-* I'm the in-house Front End Web Developer here at 0ptimus.
-* You can email me anytime: [paul@0ptimus.com](mailto:paul@0ptimus.com)
-* You can call me anytime: (703) 989.0535
-
-
----
-
 ## Agenda
 
 * Introduction
