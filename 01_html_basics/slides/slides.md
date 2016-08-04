@@ -170,11 +170,6 @@ image retrieved from https://pantheon.io/sites/default/files/History-of-Website-
 
 ---
 
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##General Assembly Press Release
-
----
-
 ##HTML Page Structure
 
 
