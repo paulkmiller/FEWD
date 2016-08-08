@@ -3,7 +3,7 @@
 * Introduction
 * Atom
 *	HTML Tag Review
-*	GA Press Release Codealong
+<!-- *	GA Press Release Codealong -->
 *	Lab Time
 
 ---
@@ -89,7 +89,7 @@ All of the files (HTML files, images, stylesheets, etc.) that are related to a g
 
 Go to folder (in your mac's finder)
 
-**cmd+shift+G**
+**cmd+space**
 
 --
 
@@ -247,7 +247,7 @@ image retrieved from https://pantheon.io/sites/default/files/History-of-Website-
 
 ---
 
-##Cookie Recipe
+##[Cookie Recipe](http://paulkmiller.github.io/FEWD/01_html_basics/solution/cookie_recipe/index.html)
 
 ---
 
