@@ -5,9 +5,9 @@
 ## Hi! I'm...
 
 * Paul Miller
-* I'm a Web Developer at [Greater Washington Publishing](http://gwp2.herokuapp.com/).
+* I'm a Web Developer at [Greater Washington Publishing](http://gwp2.herokuapp.com/)
 * Get in touch with me at: [pmiller@gwpi.net](mailto:pmiller@gwpi.net)
-* You can view my [portfolio site](http://paul-miller.herokuapp.com/) to get a better idea of what I enjoy doing.
+* You can view my [portfolio site](http://paul-miller.herokuapp.com/) to get a better idea of what I enjoy doing
 
 ---
 
