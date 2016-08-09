@@ -26,7 +26,7 @@
 
 *   [Moodle](http:/google.com)
 *   You should have gotten an email welcoming you to the class
-*   We will post assignments, handouts and updates there, along with this online syllabus
+*   I will post assignments, handouts and updates there, along with this online syllabus
 *   You'll turn in your homework as zip files there
 
 --
@@ -44,7 +44,7 @@
 
 ## Don't expect to learn...
 
-*   We're not doing any back-end stuff, though we are more than happy to answer specific questions.
+*   We're not doing any back-end stuff, though I are more than happy to answer specific questions.
 *   That means no WordPress, Drupal, Ruby on Rails, Node, etc.
 
 --
