@@ -3,7 +3,7 @@
 * Introduction
 * Atom
 *	HTML Tag Review
-<!-- *	GA Press Release Codealong -->
+*	GA Press Release Codealong
 *	Lab Time
 
 ---
@@ -248,6 +248,10 @@ image retrieved from https://pantheon.io/sites/default/files/History-of-Website-
 ---
 
 ##[Cookie Recipe](http://paulkmiller.github.io/FEWD/01_html_basics/solution/cookie_recipe/index.html)
+
+---
+
+##[STC Press Release](http://paulkmiller.github.io/FEWD/01_html_basics/solution/stc_press_release/index.html)
 
 ---
 

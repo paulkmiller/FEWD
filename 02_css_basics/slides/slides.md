@@ -1,6 +1,5 @@
 ##Agenda
 
-*	HTML Review
 *	Building A Simple Web Page
 	*	Images
 	*	Nav
@@ -179,7 +178,7 @@ There are three main image file formats:
 *	Can have full levels of transparency
 * High quality
 
-![png transparency](../img/unit_1/trans_png.png)
+![png transparency](../img/unit_1/smiley.png)
 
 Note:
 Supports transparency and semi-transparency, great for logos, icons, and repeating background tiles. Almost always preferable to a `gif`, unless semi-transparency is not needed, and the `gif` format is significantly smaller.
@@ -194,7 +193,7 @@ Supports transparency and semi-transparency, great for logos, icons, and repeati
 *	Can have basic transparency, typically a `png` is used instead.
 * Can be animated!
 
-![gif transparency](../img/unit_1/trans_gif.gif)
+![gif transparency](../img/unit_1/smiley.gif)
 ![gif animated](../img/unit_1/animated.gif)
 
 --
@@ -206,7 +205,7 @@ Supports transparency and semi-transparency, great for logos, icons, and repeati
 * Best file size, can choose quality
 * No transparency
 
-![jpg transparency](../img/unit_1/trans_jpg.jpg)
+![jpg transparency](../img/unit_1/smiley.jpg)
 
 Note:
 No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos. (Try to balance between photo quality and file size.)
