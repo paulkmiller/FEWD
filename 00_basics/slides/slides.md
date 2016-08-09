@@ -26,7 +26,7 @@
 *   [Moodle](http:/google.com)
 *   You should have gotten an email welcoming you to the class
 *   I will post assignments, handouts and updates there, along with this online syllabus
-*   You'll turn in your homework as zip files there
+*   You'll turn in your homework as zip files there 
 
 --
 
