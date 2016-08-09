@@ -51,10 +51,9 @@
 
 ## Class Environment
 
-*   Ask us lots of questions!
+*   Ask me lots of questions!
 *   Ask each other lots of questions!
 *   Let's keep it light.
-*   I accept Doughnuts as tribute.
 
 ---
 
