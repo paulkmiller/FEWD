@@ -6,7 +6,7 @@
 
 * Paul Miller
 * I'm a Web Developer at [Greater Washington Publishing](http://gwp2.herokuapp.com/)
-* Get in touch with me at: [pmiller@gwpi.net](mailto:pmiller@gwpi.net)
+* Get in touch with me at: [paulteachesweb@gmail.com](mailto:paulteachesweb@gmail.com)
 
 ---
 
