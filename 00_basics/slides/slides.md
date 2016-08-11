@@ -439,5 +439,5 @@ The extra slash tells the browser that the path starts at the root of the hard d
 
 ## Homework
 
-* Watch [this video](http://www.dontfeartheinternet.com/the-basics/not-tubes) about the Internet.
+* Watch [this video](http://www.dontfeartheinternet.com/01-not-tubes/) about the Internet.
 * Read [this article](http://www.theguardian.com/help/insideguardian/2009/sep/28/blogpost) about web development.
