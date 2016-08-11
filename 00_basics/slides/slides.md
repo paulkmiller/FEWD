@@ -26,7 +26,7 @@
 *   [Moodle](http:/google.com)
 *   You should have gotten an email welcoming you to the class
 *   I will post assignments, handouts and updates there, along with this online syllabus
-*   You'll turn in your homework as zip files there 
+*   You'll turn in your homework as zip files there
 
 --
 
@@ -286,15 +286,15 @@ What do our computers and a web server have in common?
 
 --
 
+A URL
+
 ![A url](../img/unit_1/server-path.png)
 
 --
 
+A Finder Winow
+
 ![A finder window](../img/unit_1/file-path.png)
-
---
-
-![OMG they're the same](../img/unit_1/file-path2.png)
 
 --
 
