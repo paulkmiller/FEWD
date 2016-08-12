@@ -3,16 +3,12 @@
 * Introduction
 * Atom
 *	HTML Tag Review
-*	GA Press Release Codealong
+*	STC Press Release Codealong
 *	Lab Time
 
 ---
 
 ## Introduction to Front End Web Development
-
---
-
-## What is Web Development?
 
 --
 
