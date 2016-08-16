@@ -492,11 +492,12 @@ Note that changing the opacity allows whatever colors are "behind" an element to
 
 ![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
 ##Lab Time
-*	Wendy G. Bites - Resume.
+*	Wendy G. Bites
 
 ---
 
 ##Homework
 
-* Create your own resume Web site
+* Complete the Wendy G. Bites Exercise ( Main Page + Resume Page )
+* EXTRA-CREDIT-- Create your own resume Web site with what you've learned
 * [CSS Cheat Sheet PDF](../pdf/CSS.pdf)
