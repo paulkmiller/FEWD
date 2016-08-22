@@ -1,6 +1,5 @@
 ##Agenda
 
-*	Questions?
 * Resets
 *	Overflow
 *	Box Sizing
@@ -146,11 +145,10 @@ The `width` and `height` include `padding` and `border`
 ---
 
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Fashion Blog Part 2
+##[Fashion Blog Part 2](../class_05_start_code/fashion-blog-part-2/fashion_blog_part2.png)
 
 ---
 
 ##Good night!
 
-<img src="../img/unit_1/gorillaz.gif" width="500px">
+<img src="../../img/unit_1/gorillaz.gif" width="500px">
