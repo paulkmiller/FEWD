@@ -501,8 +501,7 @@ ID (more specific) > Class > Element (less specific)
 
 ---
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Fashion Blog
+##[Fashion Blog](class_03_starter_code/Fashion_Blog_final.png)
 
 ---
 

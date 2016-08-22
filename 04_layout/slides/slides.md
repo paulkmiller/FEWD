@@ -131,13 +131,3 @@ Setting `display` on an element will also change layout
 * We have true vertical and horizontal centering (no more margin: auto)
 * [Browser Adoption](http://caniuse.com/flexbox)
 * [See Stephen Hay's Flexbox Tutorial](http://www.creativebloq.com/netmag/create-slick-css-layouts-flexbox-41411325)
-
----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Layout Challenge
-
----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Fashion Blog
