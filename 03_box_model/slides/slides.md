@@ -489,7 +489,7 @@ ID (more specific) > Class > Element (less specific)
 
 ---
 
-##[Fashion Blog](class_03_starter_code/Fashion_Blog_final.png)
+##[Fashion Blog](class_03_starter_code/fashion_blog_part1/Fashion_Blog_final.png)
 
 ---
 
