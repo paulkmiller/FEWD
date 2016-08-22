@@ -1,19 +1,6 @@
-##Agenda
-
-*	Questions?
-*	Big ol' Lab
-
----
-
-##Questions?
-
-Got some questions?
-
----
-
 ##CSS Resets
 
---
+-- 
 
 ##CSS Resets
 
