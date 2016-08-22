@@ -6,7 +6,7 @@
 
 ---
 
-![GeneralAssemb.ly](../img/icons/code_along.png)
+![GeneralAssemb.ly](../../img/icons/code_along.png)
 ##Responsive Boxes
 
 ---
@@ -34,11 +34,10 @@
 
 ---
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
 ##Startup Matchmaker
 
 ---
 
 ##Good night!
 
-<img src="../img/unit_1/sleepy_cat.gif" width="500px">
+<img src="../../img/unit_1/sleepy_cat.gif" width="500px">
