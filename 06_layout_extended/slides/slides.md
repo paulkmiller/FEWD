@@ -129,7 +129,7 @@ The `width` and `height` include `padding` and `border`
 
 ---
 
-##[Startup Matchmaker](/class_06_starter_code/startupmatchmaker.jpg)
+##[Startup Matchmaker](class_06_starter_code/startupmatchmaker.png)
 ---
 
 ##Good night!
