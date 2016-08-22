@@ -318,10 +318,8 @@ article{
 
 ##Box Model
 
-###Width = (content) width + padding-left + padding-right + border-left + border-right
 
-<<<<<<< Updated upstream
-###Height = (content) height + padding-top + padding-bottom + border-top + border-bottom
+###Width = (content) width + padding-left + padding-right + border-left + border-right
 
 --
 
@@ -343,13 +341,6 @@ html {
   box-sizing: inherit;
 }
 ```
-
----
-
-=======
->>>>>>> Stashed changes
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Tags & Boxes
 
 ---
 
