@@ -1,64 +1,9 @@
 ##Agenda
 
-*	Questions!
-* Final Projects
 * Responsive Layout
 * EMs and REMs
 * Media Queries
 * Grids
-
----
-
-##Questions
-
-Lets have 'em
-
----
-
-## Final Projects
-
-- Design and build a website of your choice
-- Demonstrate the process to plan and implement the project
-    - Submit an artifact of the process at each milestone
-- Use HTML to correctly structure the DOM
-- Style using CSS
-- Create interactivity using JavaScript
-
----
-
-## Final Projects
-
-Milestones:
-
-<table>
-<thead><tr>
-<th></th>
-<th><strong>Due Date</strong></th>
-<th><strong>Deliverable</strong></th>
-</tr></thead>
-<tbody>
-<tr>
-<td>Milestone 1</td>
-<td>Week 5 - 04/25</td>
-<td style="white-space:nowrap;">Project Proposal &amp; Wireframes</td>
-</tr>
-<tr>
-<td>Milestone 2</td>
-<td>Week 7 - 05/09</td>
-<td>Pseudocode</td>
-</tr>
-<tr>
-<td>Milestone 3</td>
-<td>Week 8 - 05/16</td>
-<td>First Draft</td>
-</tr>
-<tr>
-<td style="white-space:nowrap;">Final Product</td>
-<td style="white-space:nowrap;">Week 10 - 06/01</td>
-<td>Presentations</td>
-</tr>
-</tbody>
-</table>
 
 ---
 
