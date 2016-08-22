@@ -347,8 +347,7 @@ Some popular CSS grids / frameworks
 
 ---
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Responsive Boxes
+##[Responsive Boxes](class_07_starter/boxes.jpg)
 
 ---
 
