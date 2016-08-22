@@ -281,7 +281,6 @@ Every element in web design is a box.
 
 --
 
-<<<<<<< Updated upstream
 ##Two Kinds of Boxes
 
 ###Block Elements - They're Greedy
@@ -295,8 +294,6 @@ They will sidle up to neighboring elements in a horizontal line. They want to sh
 
 --
 
-=======
->>>>>>> Stashed changes
 ##Box Model
 
 4 compontents: margin, border, padding and (content) width/height
