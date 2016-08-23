@@ -69,11 +69,6 @@ Allows elements to clear themselves
 
 ---
 
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Floating Sections
-
----
-
 ##Display Modes
 
 Setting `display` on an element will also change layout
