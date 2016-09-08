@@ -62,35 +62,3 @@ We will talk about algorithms later.
 Pseudocode is a mixture of natural language and high-level programming constructs. For example,
 If the door is closed and I want to exit the room, then open the door
 This semester we will learn what these keywords and structures are and how they are used to create a program…
-
-<!-- ---
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Thermostat
-
----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Rock Paper Scissors
-
----
-
-##What Is JavaScript
-
-* Where does it live?
-* What does it do?
-
----
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Color Switcher
-
----
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Traffic Light
-
----
-
-##Good night!
-
-<img src="../img/unit_1/dancing.gif" width="500px"> -->
