@@ -63,7 +63,7 @@ Pseudocode is a mixture of natural language and high-level programming construct
 If the door is closed and I want to exit the room, then open the door
 This semester we will learn what these keywords and structures are and how they are used to create a program…
 
----
+<!-- ---
 
 ![GeneralAssemb.ly](../img/icons/code_along.png)
 ##Thermostat
@@ -93,4 +93,4 @@ This semester we will learn what these keywords and structures are and how they 
 
 ##Good night!
 
-<img src="../img/unit_1/dancing.gif" width="500px">
+<img src="../img/unit_1/dancing.gif" width="500px"> -->
