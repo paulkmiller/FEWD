@@ -147,7 +147,7 @@ Some of the types of values we support include:
 ![GeneralAssemb.ly](../img/icons/code_along.png)
 ##Score Keeper
 
-[Score Keeper CodePen](http://codepen.io/nickgrace/pen/ovmze)
+[Score Keeper CodePen](http://codepen.io/paulkmiller/pen/yaNGOJ)
 
 ---
 
@@ -375,14 +375,14 @@ console.log("This text goes in the console of your inspector!");
 ![GeneralAssemb.ly](../img/icons/code_along.png)
 ##Light Switch
 
-[Light Switch CodePen](http://codepen.io/nickgrace/pen/gbKBKP)
+[Light Switch CodePen](http://codepen.io/paulkmiller/pen/rrVoZW)
 
 ---
 
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
+![Temp Converter](../img/icons/exercise_icon_md.png)
 ##Temp Converter
 
-[Temp Converter CodePen](http://codepen.io/nickgrace/pen/KrIwp)
+[Temp Converter CodePen](http://codepen.io/paulkmiller/pen/kkWzbg)
 
 ---
 
