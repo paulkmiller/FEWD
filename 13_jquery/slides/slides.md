@@ -184,22 +184,6 @@ $( '.something' ).toggleClass( "active" )
 <div class="something active">Some text.</div>
 ```
 
---
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Exercise 1
-
-[CodePen](http://codepen.io/nickgrace/pen/xGwXqv)
-
---
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Exercise 2
-
-[CodePen](http://codepen.io/nickgrace/pen/vONeZK)
-
---
-
 ---
 
 ##jQuery Data
@@ -256,27 +240,6 @@ Everything you need to know is here:
 
 ###http://jquery.com
 ###http://learn.jquery.com
-
----
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Intro to jQuery
-
-[CodePen](http://codepen.io/nickgrace/pen/aOvLpg)
-
----
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Intro to jQuery 2
-
-[CodePen](http://codepen.io/nickgrace/pen/YXyrrW)
-
----
-
-![GeneralAssemb.ly](../img/icons/code_along.png)
-##Color Switcher
-
-[Color Switcher CodePen](http://codepen.io/nickgrace/pen/JoZmaz)
 
 ---
 
