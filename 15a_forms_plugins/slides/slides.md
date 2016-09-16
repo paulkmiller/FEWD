@@ -204,10 +204,6 @@ Note: Number of ways to do this *instructor can cover all or just choose one
   2.  Hide the element, style a corresponding label how you wanted the element to appear
   3.  Try using pseudo elements and the selector :checked for no JS switching between checked and unchecked images used for styling
 
-----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Application Form
 
 ----
 # jQuery Plugins
@@ -292,10 +288,6 @@ http://alvarotrigo.com/fullPage/
 # What else?
 
 ###You name it!
-----
-
-![GeneralAssemb.ly](../img/icons/exercise_icon_md.png)
-##Carousel Part 2
 ----
 ##Good night!
 

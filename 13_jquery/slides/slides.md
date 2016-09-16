@@ -1,16 +1,3 @@
-##Agenda
-
-* JavaScript Questions
-* jQuery
-
----
-
-##JavaScript Questions
-
-I know you've got em
-
----
-
 ##jQuery
 
 jQuery __is__ JavaScript
