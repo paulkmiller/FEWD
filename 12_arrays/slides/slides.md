@@ -176,7 +176,7 @@ allAElements.forEach(myLoopingFunction) // <- Error, forEach is undefined.
 ![GeneralAssemb.ly](../img/icons/code_along.png)
 ## Fun With Spans
 
-[Fun with Spans Starter Code](../class_12_fun_with_spans_starter_code.zip)
+[Fun with Spans Starter Code](../12_arrays/class_12_fun_with_spans_starter_code.zip)
 
 ---
 
