@@ -1,4 +1,4 @@
-# Intro to the Magic and Power of Sass + Compass
+# Intro to the Magic and Power of Sass
 
 ---
 
